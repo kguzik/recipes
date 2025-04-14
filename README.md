@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
 
 2. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kguzik/recipes.git
    cd recipes
    ```
 
